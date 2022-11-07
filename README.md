@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, VueJs, NodeJs
 - 👯 I’m looking to collaborate on intteresting project 
 - 💬 Ask me about everything you need, i'll be glad to help you
-- 📫 How to reach me: zacharie21000@gmail.com or on Twitter : @ZacharieDS
+- 📫 I'm open to work,so you can reach me at zacharie21000@gmail.com or on Twitter : @ZacharieDS
 
 
 <!--
