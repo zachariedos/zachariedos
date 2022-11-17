@@ -1,6 +1,6 @@
-# Bienvenue sur mon github
+# Hello world 🖐️
 
-|       FrontEnd        | Backend          |      outils      |
+|       FrontEnd        | Backend          |      Tools      |
 | :---------------: |:---------------:| :-----:|
 | <img src="vue.png" alt="VueJs" width="50"/> <img src="react.png" alt="React" width="50"/>   |   <img src="node.png" alt="NodeJS" width="50"/> <img src="symfony.png" alt="Symfony" width="50"/>       |  <img src="vscode.png" alt="Vscode" width="50"/> |
 
