@@ -2,7 +2,7 @@
 
 |       FrontEnd        | Backend          |      outils      |
 | :---------------: |:---------------:| :-----:|
-| ![](vue.png) ![](react.png)  |   ![](node.png) ![](symfony.png)       |  ![](vscode.png) |
+| <img src="vue.png" alt="VueJs" width="50"/> <img src="react.png" alt="React" width="50"/>   |   <img src="node.png" alt="NodeJS" width="50"/> <img src="symfony.png" alt="Symfony" width="50"/>       |  <img src="vscode.png" alt="Vscode" width="50"/> |
 
 - 🌱 I’m currently learning React, VueJs, NodeJs
 - 👯 I’m looking to collaborate on intteresting project 
