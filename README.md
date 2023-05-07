@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zacharie</h1>
 <h3 align="center">A passionate fullstack developer from france</h3>
 
-- 🌱 I’m currently learning **React and laravel**
+- 🌱 Work with **React and laravel**
 
 - 📫 How to reach me **zacharie21000@gmail.com**
 
