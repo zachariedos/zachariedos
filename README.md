@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zacharie</h1>
 <h3 align="center">A passionate fullstack developer from france</h3>
 
-# 💻 **Social Networks**
+# 📱 **Social Networks**
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/zacharie-dos-santos-6106441aa/)))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/zacharie-dos-santos-6106441aa/))
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/zacharieds)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([#](https://instagram.com/zachariedos))
 
